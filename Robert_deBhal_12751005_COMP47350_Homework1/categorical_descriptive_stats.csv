@@ -1,0 +1,10 @@
+,count,unique,top,freq
+occupation,255,7,professional,156
+regionType,508,5,suburban,298
+marriageStatus,1000,3,unknown,396
+children,1000,2,False,763
+smartPhone,1000,2,True,898
+creditRating,1000,7,B,385
+homeOwner,1000,2,False,632
+creditCard,1000,6,true,647
+churn,1000,2,False,501
